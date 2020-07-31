@@ -13,7 +13,4 @@
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
 
-<br>
----
-<br>
 <img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kawapa&show_icons=true&hide_border=true"/>
