@@ -8,10 +8,10 @@
 
 ### Languages and tools that I use:
 
-<img align="left" alt="C++" width="48px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img align="left" alt="Visual Studio Code" width="48px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
-<img align="left" alt="Git" width="48px" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img align="left" alt="GitHub" width="48px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
+[<img align="left" alt="C++" width="48px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>]()
+[<img align="left" alt="Visual Studio Code" width="48px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>]()
+[<img align="left" alt="Git" width="48px" src="https://img.icons8.com/color/48/000000/git.png"/>]()
+[<img align="left" alt="GitHub" width="48px" src="https://img.icons8.com/fluent/48/000000/github.png"/>]()
 
 ---
 
