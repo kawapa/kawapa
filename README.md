@@ -8,9 +8,9 @@
 
 ### Languages and tools that I use:
 
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![Visual Studio Code](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)
-![Git](https://img.icons8.com/color/48/000000/git.png)
-![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
+![C++](assets/cpp.png)
+![Visual Studio Code](assets/vsc.png)
+![Git](assets/git.png)
+![GitHub](assets/github.png)
 
 <img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kawapa&show_icons=true&hide_border=true"/>
