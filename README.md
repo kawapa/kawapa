@@ -13,4 +13,4 @@
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=kawapa&theme=default&show_icons=true&hide_border=true)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=kawapa&theme=vue&show_icons=true&hide_border=true)
